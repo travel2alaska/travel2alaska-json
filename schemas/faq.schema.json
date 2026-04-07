@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "FAQ",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "question": { "type": "string" },
+    "answer": { "type": "string" },
+    "topic": { "type": "string" },
+    "region": { "type": "string" },
+    "destinationId": { "type": "string" }
+  },
+  "required": ["id", "question", "answer", "topic"]
+}

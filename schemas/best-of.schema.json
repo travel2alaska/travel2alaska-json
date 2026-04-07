@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Best Of",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "category": { "type": "string" },
+    "title": { "type": "string" },
+    "description": { "type": "string" },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "listingId": { "type": "string" },
+          "reason": { "type": "string" }
+        },
+        "required": ["listingId", "reason"]
+      }
+    }
+  },
+  "required": ["id", "category", "title", "items"]
+}

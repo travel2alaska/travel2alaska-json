@@ -1,0 +1,31 @@
+{
+  "name": "travel2alaska-json",
+  "version": "1.0.0",
+  "description": "This repository is the central public data engine for Travel2Alaska and its associated sites. It acts as the \"source of truth\" to power Next.js programmatic page generation and automated publishing.",
+  "main": "index.js",
+  "scripts": {
+    "validate": "ts-node scripts/validate.ts",
+    "test": "npm run validate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travel2alaska/travel2alaska-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/travel2alaska/travel2alaska-json/issues"
+  },
+  "homepage": "https://github.com/travel2alaska/travel2alaska-json#readme",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260405.1",
+    "@types/node": "^25.5.2",
+    "ajv": "^8.18.0",
+    "ajv-formats": "^3.0.1",
+    "glob": "^13.0.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
+  }
+}

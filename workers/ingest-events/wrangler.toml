@@ -1,0 +1,10 @@
+name = "travel2alaska-ingest-events"
+main = "src/index.ts"
+compatibility_date = "2024-04-07"
+compatibility_flags = ["nodejs_compat"]
+
+# [vars]
+# GITHUB_TOKEN = "..."
+
+# [[triggers]]
+# crons = [ "0 12 * * *" ] # Run daily at noon

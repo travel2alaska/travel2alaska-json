@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Itinerary",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "durationDays": { "type": "number" },
+    "startLocation": { "type": "string" },
+    "endLocation": { "type": "string" },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "days": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "day": { "type": "number" },
+          "location": { "type": "string" },
+          "description": { "type": "string" },
+          "activities": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        },
+        "required": ["day", "location", "description"]
+      }
+    }
+  },
+  "required": ["id", "name", "durationDays", "startLocation", "endLocation", "days"]
+}
