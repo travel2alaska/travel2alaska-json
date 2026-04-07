@@ -1,0 +1,33 @@
+{
+  "id": "sitk",
+  "name": "Sitka National Historical Park",
+  "region": "southeast",
+  "coordinates": [
+    -135.3156876,
+    57.04718173
+  ],
+  "tags": [
+    "architecture-and-building",
+    "arts",
+    "colonization-and-settlement",
+    "commerce",
+    "trade",
+    "explorers-and-expeditions",
+    "military",
+    "indigenous-and-native-warrior",
+    "native-american-heritage",
+    "reconstruction"
+  ],
+  "activities": [
+    "arts-and-culture",
+    "craft-demonstrations",
+    "fishing",
+    "food",
+    "picnicking",
+    "guided-tours",
+    "hands-on",
+    "citizen-science",
+    "hiking",
+    "hunting-and-gathering"
+  ]
+}

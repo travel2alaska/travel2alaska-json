@@ -1,0 +1,33 @@
+{
+  "id": "dena",
+  "name": "Denali National Park & Preserve",
+  "region": "interior",
+  "coordinates": [
+    -151.0526568,
+    63.29777484
+  ],
+  "tags": [
+    "archeology",
+    "arts",
+    "aviation",
+    "industry",
+    "mining",
+    "transportation",
+    "roads,-routes-and-highways",
+    "westward-expansion",
+    "the-gold-rush",
+    "animals"
+  ],
+  "activities": [
+    "arts-and-culture",
+    "astronomy",
+    "stargazing",
+    "biking",
+    "camping",
+    "backcountry-camping",
+    "car-or-front-country-camping",
+    "group-camping",
+    "rv-camping",
+    "climbing"
+  ]
+}

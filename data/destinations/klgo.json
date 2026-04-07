@@ -1,0 +1,33 @@
+{
+  "id": "klgo",
+  "name": "Klondike Gold Rush National Historical Park",
+  "region": "southeast",
+  "coordinates": [
+    -135.2618535,
+    59.61042373
+  ],
+  "tags": [
+    "architecture-and-building",
+    "african-american-heritage",
+    "archeology",
+    "ruins",
+    "arts",
+    "asian-american-heritage",
+    "birthplace",
+    "burial,-cemetery-and-gravesite",
+    "colonization-and-settlement",
+    "commerce"
+  ],
+  "activities": [
+    "arts-and-culture",
+    "camping",
+    "backcountry-camping",
+    "car-or-front-country-camping",
+    "group-camping",
+    "rv-camping",
+    "climbing",
+    "mountain-climbing",
+    "food",
+    "picnicking"
+  ]
+}

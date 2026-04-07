@@ -1,0 +1,33 @@
+{
+  "id": "katm",
+  "name": "Katmai National Park & Preserve",
+  "region": "southwest",
+  "coordinates": [
+    -155.0126574,
+    58.62235668
+  ],
+  "tags": [
+    "architecture-and-building",
+    "archeology",
+    "aviation",
+    "explorers-and-expeditions",
+    "native-american-heritage",
+    "science,-technology-and-innovation",
+    "transportation",
+    "women's-history",
+    "animals",
+    "birds"
+  ],
+  "activities": [
+    "boating",
+    "camping",
+    "backcountry-camping",
+    "canoe-or-kayak-camping",
+    "fishing",
+    "fly-fishing",
+    "food",
+    "dining",
+    "picnicking",
+    "flying"
+  ]
+}

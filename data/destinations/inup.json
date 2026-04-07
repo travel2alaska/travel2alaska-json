@@ -1,0 +1,16 @@
+{
+  "id": "inup",
+  "name": "Iñupiat Heritage Center",
+  "region": "interior",
+  "coordinates": [
+    -156.7535863,
+    71.29832445
+  ],
+  "tags": [
+    "native-american-heritage"
+  ],
+  "activities": [
+    "arts-and-culture",
+    "hunting-and-gathering"
+  ]
+}

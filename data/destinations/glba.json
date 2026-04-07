@@ -1,0 +1,33 @@
+{
+  "id": "glba",
+  "name": "Glacier Bay National Park & Preserve",
+  "region": "southeast",
+  "coordinates": [
+    -136.8407579,
+    58.80086718
+  ],
+  "tags": [
+    "architecture-and-building",
+    "colonization-and-settlement",
+    "explorers-and-expeditions",
+    "maritime",
+    "ancient-seas",
+    "animals",
+    "birds",
+    "fish",
+    "climate-change",
+    "coasts,-islands-and-atolls"
+  ],
+  "activities": [
+    "arts-and-culture",
+    "cultural-demonstrations",
+    "auto-and-atv",
+    "atv-off-roading",
+    "boating",
+    "motorized-boating",
+    "boat-tour",
+    "camping",
+    "backcountry-camping",
+    "canoe-or-kayak-camping"
+  ]
+}

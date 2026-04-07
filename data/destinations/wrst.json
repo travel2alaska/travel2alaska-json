@@ -1,0 +1,33 @@
+{
+  "id": "wrst",
+  "name": "Wrangell - St Elias National Park & Preserve",
+  "region": "interior",
+  "coordinates": [
+    -142.6028439,
+    61.4182147
+  ],
+  "tags": [
+    "archeology",
+    "arts",
+    "photography",
+    "aviation",
+    "explorers-and-expeditions",
+    "industry",
+    "mining",
+    "native-american-heritage",
+    "animals",
+    "birds"
+  ],
+  "activities": [
+    "arts-and-culture",
+    "auto-and-atv",
+    "atv-off-roading",
+    "auto-off-roading",
+    "scenic-driving",
+    "biking",
+    "mountain-biking",
+    "boating",
+    "camping",
+    "backcountry-camping"
+  ]
+}

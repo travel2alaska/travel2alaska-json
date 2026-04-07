@@ -1,0 +1,33 @@
+{
+  "id": "alag",
+  "name": "Alagnak Wild River",
+  "region": "southwest",
+  "coordinates": [
+    -156.112002,
+    59.05180188
+  ],
+  "tags": [
+    "archeology",
+    "animals",
+    "birds",
+    "fish",
+    "arctic",
+    "tundra",
+    "groundwater",
+    "river-and-riparian",
+    "wetlands",
+    "wilderness"
+  ],
+  "activities": [
+    "boating",
+    "camping",
+    "backcountry-camping",
+    "fishing",
+    "hunting-and-gathering",
+    "hunting",
+    "paddling",
+    "canoe-or-kayak-camping",
+    "kayaking",
+    "whitewater-rafting"
+  ]
+}

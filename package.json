@@ -4,6 +4,7 @@
   "description": "This repository is the central public data engine for Travel2Alaska and its associated sites. It acts as the \"source of truth\" to power Next.js programmatic page generation and automated publishing.",
   "main": "index.js",
   "scripts": {
+    "ingest:parks": "ts-node scripts/ingest/nps-parks.ts",
     "validate": "ts-node scripts/validate.ts",
     "test": "npm run validate"
   },
@@ -24,6 +25,8 @@
     "@types/node": "^25.5.2",
     "ajv": "^8.18.0",
     "ajv-formats": "^3.0.1",
+    "axios": "^1.14.0",
+    "dotenv": "^17.4.1",
     "glob": "^13.0.6",
     "ts-node": "^10.9.2",
     "typescript": "^6.0.2"

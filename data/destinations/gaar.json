@@ -1,0 +1,33 @@
+{
+  "id": "gaar",
+  "name": "Gates Of The Arctic National Park & Preserve",
+  "region": "arctic",
+  "coordinates": [
+    -153.2917758,
+    67.75961636
+  ],
+  "tags": [
+    "archeology",
+    "arts",
+    "explorers-and-expeditions",
+    "military",
+    "native-american-heritage",
+    "westward-expansion",
+    "the-gold-rush",
+    "arctic",
+    "tundra",
+    "climate-change"
+  ],
+  "activities": [
+    "camping",
+    "backcountry-camping",
+    "canoe-or-kayak-camping",
+    "climbing",
+    "rock-climbing",
+    "mountain-climbing",
+    "hiking",
+    "backcountry-hiking",
+    "off-trail-permitted-hiking",
+    "hunting-and-gathering"
+  ]
+}

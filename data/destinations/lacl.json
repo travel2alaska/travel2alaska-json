@@ -1,0 +1,33 @@
+{
+  "id": "lacl",
+  "name": "Lake Clark National Park & Preserve",
+  "region": "southwest",
+  "coordinates": [
+    -153.55535,
+    60.57405857
+  ],
+  "tags": [
+    "archeology",
+    "arts",
+    "photography",
+    "aviation",
+    "explorers-and-expeditions",
+    "farming-and-agriculture",
+    "industry",
+    "mining",
+    "native-american-heritage",
+    "animals"
+  ],
+  "activities": [
+    "astronomy",
+    "stargazing",
+    "biking",
+    "boating",
+    "motorized-boating",
+    "camping",
+    "backcountry-camping",
+    "canoe-or-kayak-camping",
+    "climbing",
+    "mountain-climbing"
+  ]
+}

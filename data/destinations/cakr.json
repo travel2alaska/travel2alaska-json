@@ -1,0 +1,32 @@
+{
+  "id": "cakr",
+  "name": "Cape Krusenstern National Monument",
+  "region": "arctic",
+  "coordinates": [
+    -163.5037786,
+    67.41499986
+  ],
+  "tags": [
+    "archeology",
+    "colonization-and-settlement",
+    "animals",
+    "birds",
+    "arctic",
+    "tundra",
+    "night-sky",
+    "aurora-borealis",
+    "unique-species"
+  ],
+  "activities": [
+    "camping",
+    "backcountry-camping",
+    "flying",
+    "fixed-wing-flying",
+    "hands-on",
+    "arts-and-crafts",
+    "hiking",
+    "backcountry-hiking",
+    "junior-ranger-program",
+    "wildlife-watching"
+  ]
+}

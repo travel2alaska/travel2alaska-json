@@ -1,0 +1,30 @@
+{
+  "id": "aleu",
+  "name": "Aleutian Islands World War II National Historic Area",
+  "region": "interior",
+  "coordinates": [
+    -166.5197,
+    53.9143
+  ],
+  "tags": [
+    "archeology",
+    "aviation",
+    "colonization-and-settlement",
+    "forts",
+    "incarceration",
+    "maritime",
+    "coastal-defenses",
+    "maritime---military",
+    "ships-and-shipwrecks",
+    "military"
+  ],
+  "activities": [
+    "guided-tours",
+    "self-guided-tours---walking",
+    "self-guided-tours---auto",
+    "junior-ranger-program",
+    "wildlife-watching",
+    "birdwatching",
+    "museum-exhibits"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "bela",
+  "name": "Bering Land Bridge National Preserve",
+  "region": "arctic",
+  "coordinates": [
+    -164.4086432,
+    65.96087902
+  ],
+  "tags": [
+    "arctic",
+    "geothermal",
+    "hot-springs",
+    "volcanoes"
+  ],
+  "activities": [
+    "camping",
+    "backcountry-camping",
+    "dog-sledding",
+    "flying",
+    "fixed-wing-flying",
+    "hiking",
+    "backcountry-hiking",
+    "hunting-and-gathering",
+    "gathering-and-foraging",
+    "junior-ranger-program"
+  ]
+}

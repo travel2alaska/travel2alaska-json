@@ -1,0 +1,33 @@
+{
+  "id": "kefj",
+  "name": "Kenai Fjords National Park",
+  "region": "interior",
+  "coordinates": [
+    -150.106502,
+    59.81804414
+  ],
+  "tags": [
+    "archeology",
+    "maritime",
+    "coastal-defenses",
+    "maritime---military",
+    "military",
+    "us-army",
+    "native-american-heritage",
+    "wars-and-conflicts",
+    "world-war-ii",
+    "animals"
+  ],
+  "activities": [
+    "astronomy",
+    "stargazing",
+    "boating",
+    "boat-tour",
+    "camping",
+    "backcountry-camping",
+    "canoe-or-kayak-camping",
+    "car-or-front-country-camping",
+    "climbing",
+    "mountain-climbing"
+  ]
+}

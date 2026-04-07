@@ -1,0 +1,33 @@
+{
+  "id": "kova",
+  "name": "Kobuk Valley National Park",
+  "region": "arctic",
+  "coordinates": [
+    -159.2002293,
+    67.35631336
+  ],
+  "tags": [
+    "archeology",
+    "migrations",
+    "animals",
+    "arctic",
+    "dunes",
+    "night-sky",
+    "aurora-borealis",
+    "unique-species",
+    "rare",
+    "watersheds"
+  ],
+  "activities": [
+    "boating",
+    "camping",
+    "backcountry-camping",
+    "fishing",
+    "freshwater-fishing",
+    "flying",
+    "fixed-wing-flying",
+    "hands-on",
+    "arts-and-crafts",
+    "hiking"
+  ]
+}

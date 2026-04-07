@@ -1,0 +1,33 @@
+{
+  "id": "yuch",
+  "name": "Yukon - Charley Rivers National Preserve",
+  "region": "interior",
+  "coordinates": [
+    -142.7960021,
+    65.0935608
+  ],
+  "tags": [
+    "archeology",
+    "colonization-and-settlement",
+    "explorers-and-expeditions",
+    "industry",
+    "mining",
+    "military",
+    "us-army",
+    "native-american-heritage",
+    "tragic-events",
+    "floods"
+  ],
+  "activities": [
+    "boating",
+    "motorized-boating",
+    "camping",
+    "backcountry-camping",
+    "canoe-or-kayak-camping",
+    "dog-sledding",
+    "fishing",
+    "hiking",
+    "backcountry-hiking",
+    "hunting-and-gathering"
+  ]
+}

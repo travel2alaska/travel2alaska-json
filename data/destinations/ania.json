@@ -1,0 +1,31 @@
+{
+  "id": "ania",
+  "name": "Aniakchak National Monument & Preserve",
+  "region": "southwest",
+  "coordinates": [
+    -157.5544362,
+    56.85317675
+  ],
+  "tags": [
+    "archeology",
+    "animals",
+    "arctic",
+    "tundra",
+    "geothermal",
+    "mountains",
+    "volcanoes",
+    "wilderness"
+  ],
+  "activities": [
+    "camping",
+    "backcountry-camping",
+    "climbing",
+    "mountain-climbing",
+    "flying",
+    "hiking",
+    "backcountry-hiking",
+    "paddling",
+    "whitewater-rafting",
+    "wildlife-watching"
+  ]
+}

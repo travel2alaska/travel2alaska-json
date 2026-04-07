@@ -1,0 +1,32 @@
+{
+  "id": "noat",
+  "name": "Noatak National Preserve",
+  "region": "arctic",
+  "coordinates": [
+    -159.831694,
+    68.01027053
+  ],
+  "tags": [
+    "animals",
+    "arctic",
+    "tundra",
+    "night-sky",
+    "aurora-borealis",
+    "scenic-views",
+    "watersheds",
+    "headwaters",
+    "wilderness"
+  ],
+  "activities": [
+    "boating",
+    "camping",
+    "backcountry-camping",
+    "fishing",
+    "freshwater-fishing",
+    "flying",
+    "fixed-wing-flying",
+    "hands-on",
+    "arts-and-crafts",
+    "hiking"
+  ]
+}
