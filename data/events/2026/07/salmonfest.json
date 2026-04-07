@@ -1,0 +1,17 @@
+{
+  "id": "salmonfest-2026",
+  "name": "Salmonfest",
+  "location": "Ninilchik",
+  "dates": {
+    "start": "2026-07-31T00:00:00Z",
+    "end": "2026-08-02T23:59:59Z"
+  },
+  "category": "festival",
+  "description": "Three days of fish, love, and music on the Kenai Peninsula.",
+  "links": [
+    {
+      "type": "official",
+      "url": "https://salmonfestalaska.org"
+    }
+  ]
+}

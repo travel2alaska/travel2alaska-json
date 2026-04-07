@@ -1,0 +1,8 @@
+{
+  "id": "seward",
+  "name": "Seward",
+  "region": "southcentral",
+  "coordinates": [-149.4422, 60.104],
+  "tags": ["coastal", "wildlife", "glaciers"],
+  "activities": ["whale-watching", "fishing", "kayaking"]
+}

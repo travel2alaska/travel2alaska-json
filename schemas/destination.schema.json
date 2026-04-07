@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Destination",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug for the destination"
+    },
+    "name": {
+      "type": "string",
+      "description": "Display name of the destination"
+    },
+    "region": {
+      "type": "string",
+      "enum": ["southcentral", "southeast", "interior", "arctic", "southwest"],
+      "description": "Primary region in Alaska"
+    },
+    "coordinates": {
+      "type": "array",
+      "items": { "type": "number" },
+      "minItems": 2,
+      "maxItems": 2,
+      "description": "[longitude, latitude]"
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Categorical tags for the destination"
+    },
+    "activities": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Supported activities in the destination"
+    }
+  },
+  "required": ["id", "name", "region", "coordinates", "tags", "activities"]
+}

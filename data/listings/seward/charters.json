@@ -1,0 +1,13 @@
+[
+  {
+    "id": "seward-halibut-charters",
+    "name": "Seward Halibut Charters",
+    "category": "fishing",
+    "region": "southcentral",
+    "city": "seward",
+    "phone": "907-555-0100",
+    "website": "https://example.com/seward-charters",
+    "tags": ["halibut", "charter", "full-day"],
+    "tier": "free"
+  }
+]
